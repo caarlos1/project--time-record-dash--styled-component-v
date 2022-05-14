@@ -1,0 +1,12 @@
+.card-ui--storybook {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+.card-ui--storybook .grid-inputs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
